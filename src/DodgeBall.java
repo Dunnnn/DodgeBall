@@ -7,7 +7,7 @@ public class DodgeBall
 	public static void main(String[] args)
 	{
 		
-		JFrame frame = new JFrame("Ò»ÆðÀ´Íæ¶ã±ÜÇò°É£¡");
+		JFrame frame = new JFrame("DodgeBall!");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 
